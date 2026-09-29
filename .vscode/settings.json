@@ -1,0 +1,14 @@
+{
+  "dart.flutterSdkPath": "/home/harvi/fvm/default",
+  "dart.sdkPath": "/home/harvi/fvm/default/bin/cache/dart-sdk",
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off",
+    "editor.defaultFormatter": "Dart-Code.dart-code"
+  }
+}
